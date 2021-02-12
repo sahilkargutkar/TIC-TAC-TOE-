@@ -11,7 +11,9 @@ A Game to pass time
 
 ![Screenshot](tic-tac-toe.png?raw=true)
 
-##How to build and run:
+## How to build and run:
+
+
 Run `ng build` to build the project.The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -19,5 +21,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-##Languages and Frameworks used
+## Languages and Frameworks used
 Angular.JS,Node,Html/CSS,JavaScript,Nebular
