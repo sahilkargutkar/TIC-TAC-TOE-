@@ -4,7 +4,7 @@ A Game to pass time
 ![GitHub](https://img.shields.io/github/license/sahilkargutkar/TIC-TAC-TOE-)
 
 
-## App Development using Firebase
+## App Deployed using Firebase
 <a href="https://tic-tac-toe-6dfcb.web.app/">TIC TAC TOE</a>
 
 ##Screenshot
