@@ -5,11 +5,11 @@ A Game to pass time
 
 
 ## App Development using Firebase
-![TIC TAC TOE ](https://tic-tac-toe-6dfcb.web.app/)
+<a href="https://tic-tac-toe-6dfcb.web.app/">TIC TAC TOE</a>
 
 ##Screenshot
 
-![]
+![Screenshot](tic-tac-toe.png?raw=true)
 
 ##How to build and run:
 Run `ng build` to build the project.The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
